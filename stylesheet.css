@@ -1,8 +1,14 @@
-
+/**{
+	border:1px dashed white;	
+}*/
 
 a:hover div{
 	background-color:#FF0;
 	color:#000;
+}
+
+table{
+	padding-top:30px;	
 }
 
 img{
